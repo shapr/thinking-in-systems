@@ -1,0 +1,79 @@
+=introduction=
+#+begin_quote
+managers do not solve problems, they manage mess.
+#+end_quote
+
+feedback delays mean symptoms are visible when the problem is severe
+A stitch in time saves nine.
+
+if feedback loops reward winners with the means to win more, competition is eliminated
+the rich get richer and the poor get poorer
+
+diverse systems are more stable and less vulnerable
+don't put all your eggs in one basket
+
+some solutions create further problems, because we have complex systems
+
+- feedback loop :: the basic operating unit of a system
+
+systems thinking is complementary to reductionist thinking
+
+=chapter one=
+
+a system must consist of three things
+- elements
+- interconnections
+- function / purpose
+
+#+begin_quote
+Note that information about the existence of a problem may be
+necessary but not sufficient to trigger action -- information about
+resources, incentives, and consequences is necessary too.
+#+end_quote
+
+
+#+begin_quote
+A system's function or purpose is not necessarily spoken, written, or expressed explicitly, except through the operation of the system.
+#+end_quote
+
+https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does
+
+#+begin_quote
+The administrator could balance the budget by firing professors.
+#+end_quote
+throwing the baby out with the bathwater
+
+#+begin_quote
+If you change all the players on a football team, it is still recognizably a football team.
+#+end_quote
+Aha, this is the answer to the Ship Of Theseus question!
+
+- stock :: the foundation of any system.
+  A stock is elements of the system that you can see, feel, count, or measure at any given time.
+  A system stock is just what it sounds like: a store, a quantity, an
+  accumulation of material or information that has built up over time.
+  A stock is the memory of the history of changing flows within the system.
+
+stocks are shown as boxes and T is a faucet on either end that can be turned up or down.
+
+the 'clouds' stand for wherever the flows come from and go to, sources
+and sinks that are being ignored for the present discussion.
+
+bathtub example
+
+#+begin_quote
+A stock can be increased by decreasing its outflow rate as well as by increasing its inflow rate
+#+end_quote
+like vaccines decrease the outflow of infectious material and thus decrease pandemics!
+and isolation, and masks, and ... I'm beginning to see the many flows here.
+
+workforce flows, hiring is in, and rates of quitting and firing is out, but each has different costs
+
+national wealth can boosted by building up a stock of factories and
+machines, OR more cheaply, by decreasing the rate at which factories
+and machines wear out, break down, or are discarded!
+
+I like this already!
+
+back to the bathtub, you can change the flows abruptly, but the
+*stock*, water in the tub, is difficult to change quickly.
