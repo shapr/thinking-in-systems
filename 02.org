@@ -1,0 +1,66 @@
+=systems zoo=
+
+==one stock systems==
+- thermostat
+- temperature of a heated room,
+  compared to a leaky bucket where a higher water level increases the pressure of the leak's outflow
+  🤔
+  yeah ok
+  the stock goes on changing while you're trying to control it
+  if restocking a store, you must account for the sales that happen while ordering new stock and delivery lag
+- feedback loop info can only affect future behavior
+  there will always be a lag between
+#+begin_quote
+Many economic models make a mistake in this matter by assuming that
+consumption or produc- tion can respond immediately, say, to a change
+in price.
+#+end_quote
+Oh yeah, like tariffs
+begin two loop systems?
+
+A stock with one reinforcing loop and one balancing loop
+- population
+- industrial economy
+
+2007 population had roughly 21 births per 1000, and 9 deaths per thousand
+if that continues, world population doubles in 60 years
+
+a world disease (covid?) could increase the mortality rate to 30 deaths per thousand
+if fertility remained 21 per thousand, the population would gradually decrease
+- shifting dominance :: where one loop overtakes another in changing the flow of a stock?
+yup, complex behaviors occur when feedback loops shift dominance
+
+#+begin_quote
+Dynamic systems studies usually are not designed to /predict/ what will happen,
+but instead to explore /what would happen/ if driving factors unfold in a range of different ways
+#+end_quote
+
+this sounds like Hamming's "consider what might happen" statement
+
+Questions for testing the value of a model
+1. are the driving factors likel to unfold this way?
+2. if they did, would the system react this way?
+3. what is driving the driving factors?
+
+- [ ] How do I build models and check them against historical information?
+  actually, I don't even know how to build models! I want working code!
+
+I might nominate our next reading group book to be [[https://lcamtuf.coredump.cx/prep/][Practical Doomsday]]
+that book could mix well with systems thinking?
+
+page 49 says
+#+begin_quote
+the greater the fraction of output a society invests, the faster capital stock will grow
+#+end_quote
+
+world capital's flow: reinforcing loop vs balancing depreciation loop
+depends on
+- investment fraction - how much output the society invests rather than consumes
+  (what if we train them and they leave? What if you don't and they stay?)
+  (How does this apply to LLMs?)
+- efficiency of capital - how much capital it takes to produce a given amount of output
+  (how much does worker training pay off)
+  (how much does LLM training improve the output?)
+- average capital lifetime
+  (how long is a trained worker useful?)
+  (I suspect this is LLMs biggest weakness, they're changing the world away from the one they were trained for)

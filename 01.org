@@ -77,3 +77,23 @@ I like this already!
 
 back to the bathtub, you can change the flows abruptly, but the
 *stock*, water in the tub, is difficult to change quickly.
+
+feedback loop of desired energy level to consuming caffeine to approach desired energy level
+#+begin_quote
+energy drop could reactivate the feedback loop and lead to another
+trip to the coffee pot (see the discussion of *addiction* later in
+this book) Or it could activate some longer-term and healthier
+feedback responses: Eat some food, take a walk, get some sleep
+#+end_quote
+ok, good foreshadowing. feedback loops can be good or bad.
+
+#+begin_quote
+presence of a feedback mechanism doesn't mean it works /well/
+
+action triggered may be too weak or constrained, or simply ineffective
+#+end_quote
+
+Is this a dig at politics?
+Feels like it in the US goverment shutdown of October 2025
+
+- reinforcing feedback loop :: self-multiplying change, health growth or runaway destruction
