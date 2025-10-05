@@ -64,3 +64,71 @@ depends on
 - average capital lifetime
   (how long is a trained worker useful?)
   (I suspect this is LLMs biggest weakness, they're changing the world away from the one they were trained for)
+
+economic flows and population flows have similar feedback loop structures
+
+==system with delays - biz inventory==
+I want some math in here, is there an equivalent publication with working models?
+
+says it's a version of the thermostat system
+
+This feels like a [[https://en.wikipedia.org/wiki/Recurrence_relation][recurrence relation]] too.
+That makes sense, since each element of a RR is a "function of the preceding values"
+
+I bet I can use ~fix~ to build a simple model
+How would I model delays? Maybe it's "apply this change N steps later" ?
+inventory ordering depletes money immediately, but the products arrive later, how to do both?
+
+For extra bonus fun, how to compose models?
+
+Is this a finite response filter from Hamming?
+
+Oh ha, Hamming's shower delay is on page 54 !
+
+#+begin_quote
+In physical, exponentially growing systems, there must be at least one
+reinforcing loop driving the growth /and/ at least one balancing loop
+constraining the growth, because no physical system can grow forever
+in a finite environment.
+#+end_quote
+
+A pollution constraint can be renewable or non-renewable.
+- renewable :: environment has a finite, usually variable, capacity for remove
+- non-renewable :: environment has no capacity to absorb the pollutant or make it harmless
+
+renewable or not changes how growth is likely to end
+
+figure 37
+
+initial underground deposit has enough for 200 years at starting rate
+but exponential increases mean it peaks at 40 years
+
+the higher and faster you grow, the farther and faster you fall
+when building up capital stock depending on a non-renewable resource
+
+what if price isn't constant?
+
+In summary, GET YOUR SOLAR PANELS NOW, they'll only get better!
+
+==renewable stock constrained by renewable stock - fishing==
+living renewable resources such as fish,grass,trees can regen themselves with a reinforcing feedback loop
+
+rabbits can make many more rabbits quickly
+
+but if you eat up rabbits until the existing population of rabbits can't find each other
+no more baby rabbits
+*SYSTEMS CAN COLLAPSE*
+
+adding a sonar to the fishing fleet lets you find those last few fish, and then fisherman are in serious trouble
+possible behaviors of this renewable resource system
+- overshoot and adjustment to sustainable equilibrium
+- overshoot beyond equilibrium followed by oscillation around it
+- overshoot followed by collapse of the resource and the industry dependent on the resource
+The outcome depends on two things
+1. critical threshhold beyond which the resource population's ability to regen itself is damaged
+2. rapidity and effectiveness of balancing feedback loop that slows capital growth as the resource becomes depleted
+
+fast and effective feedback brings the system into equilibrium smoothly
+slow and ineffective means resource and industry both collapse
+
+I'm gonna bet that GPUs are currently in overshoot.
