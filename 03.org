@@ -1,0 +1,12 @@
+=why systems work so well=
+chapter 3
+
+forester quote starts out this chapter
+
+roughly, if something works well for untold time, don't randomly
+discard the parts of that system that you don't understand
+
+properties of highly functional systems
+- resilience
+- self-organization
+- hierarchy
