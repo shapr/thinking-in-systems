@@ -10,3 +10,35 @@ properties of highly functional systems
 - resilience
 - self-organization
 - hierarchy
+
+- resilience :: ability to bounce or spring back into shape, position, etc after being pressed or stretched.
+  Elasticity. The ability to recover strength, spirits, good humor, or any other aspect quickly
+
+the opposite of rigidity or brittleness
+arises from a rich structure of many feedback loops
+single loop brings a system back to its  desiredstate
+resilience is several such loops using different mechanisms, at different time scales, with redundancy, one kicking in if another one fails
+
+feedback loops that can restore or rebuild feedback loops is meta-resilience
+
+meta-meta is loops that learn, create, design, and evolve more restorative structures
+
+- self-organization :: capacity of a system to make its own structure
+
+==hierarchies==
+relationships /within/ each subsystem are denser and stronger than relationships /between/ subsystems
+
+#+begin_quote
+original purpose of a hierarchy is always to help its originating
+subsystems do their jobs better This is something, unfortunately, that
+both the higher and lower levels of a greatly articulated hierarchy
+easily can forget.
+
+[...]
+
+If a single corporation bribes the government
+to favor that corpora- tion, the advantages of the competitive market
+and the good of the whole society are eroded.
+#+end_quote
+
+- suboptimization :: when a subsystem's goals dominate at the expense of the total system's goals

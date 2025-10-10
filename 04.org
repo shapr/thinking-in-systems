@@ -1,0 +1,57 @@
+=why systems surprise us=
+
+1. Everything we think we know is a model. Models will never be the /real/ world
+2. Our models usually have a strong congruence with the world.
+3. Our models fall far short of representing the world fully.
+
+#+begin_quote
+You can't navigate well in an interconnected, feedback-dominated world unless you take your eyes off short-term events and look for long-term behavior and structure
+#+end_quote
+
+events are not structure
+==Linear Minds in a Nonlinear World==
+- linear relationship :: can be drawn on a graph with a straight line
+- nonlinear relationship :: cause does not produce a proportional effect, must be drawn with curves or wiggles
+
+nonlinearities /change the relative strengths of feedback loops/ and
+can flip a system from one mode of behavior to another
+
+==layers of limits==
+- law of the minimum :: doesn't matter how much nitogren is available to the grain, if it's short on phosphorus
+  so, systems have a limiting factor?
+
+- limiting factor :: At any given time, the input that is most important to a system is the one that is most limiting
+
+*growth itself depletes or enhances limits* and thus changes what is limiting
+
+==ubiquitous delays==
+
+guess the actual delay and then multiply by three
+
+Can I apply fourier analysis to discover feedback loops?
+princple component analysis? will that show me dependent cycles?
+
+oceans take decades to respond to warmer temperatures, we don't know what affect we will have
+
+==bounded rationality==
+Adam Smith's invisible hand quote.
+
+- bounded rationality :: people make reasonable decisions based on the information they have
+  but they don't have perfect information about distant parts of the system.
+
+Shae's thought: Kickstarter and friends are ways of getting better/more information into the system.
+but there are still missing flows
+
+Stanford prison experiment is scary stuff, doubt I could read that book again.
+
+She says that putting new actors in a dysfunctional system won't help, but instead
+
+#+begin_quote
+What makes a difference is redesigning the system to improve the
+information, incentives, disincentives, goals, stresses, and
+constraints that have an effect on specific actors.
+#+end_quote
+
+Heck yeah!
+
+I'd paraphrase that as, tax incentives to boost local manufacturing will pay off better than tariffs used to punish non-local manufacturing.
