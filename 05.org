@@ -1,0 +1,79 @@
+=System Traps and Opportunities=
+
+- archetypes :: common patterns of problematic systems
+  examples are addiction, drift to low performance, and escalation
+
+Donella Meadows calls these "system traps" because standard responses will not fix these structural problems.
+
+population feedback loops are described, with heavy handed strategies that went badly, or instead incentives to make all children both desired and well supported that went extremely well.
+
+==tragedy of the commons==
+
+cattle grazing on shared land benefits the cattle owner, but the cost is shared by all
+overgrazing grass means it is less likely to regenerate itself, and perhaps may die off entirely due to erosion
+
+The tragedy of the commons arises from /missing feedback/ or /too long delayed feedback/ from the resource to the growth of the users of that resource.
+
+#+begin_quote
+Surely, you'd think, no group of people would be so shortsighted as to destroy their commons.
+#+end_quote
+OH BOY, LET'S TALK ABOUT CORPORATE FUNDING OF OPEN SOURCE!
+
+
+three ways to avoid the tragedy of the commons
+- educate and exhort - help ppl see the consequences of unrestrained use of the commons, appeal to their morality
+- privatize the commons - divide it up so each person reaps the
+  consequences of their own actions. if some lack the self control to
+  stay below carrying capacity, they only harm themselves
+- regulate the commons - "mutual coercion, mutually agreed upon"
+  regulation must be enforced by policing and penalties
+
+#+begin_quote
+For regulation to work, the regulators must have the expertise to
+monitor and interpret correctly the condition of the commons,
+effective means of deterrence, and must have the good of the whole
+community at heart. (They cannot be uninformed or weak or corrupt.)
+#+end_quote
+
+- A busy intersection uses regulation to improve flow over an unregulated free-for-all.
+- parking spaces with meters are privatization.
+- money in a bank is protected, preventing you from treating a bank as a commons.
+  in return, your own money in the bank is protected
+- the FCC limits radio broadcasting, otherwise there would be a chaos of overlapping signals
+- many city garbage systems charge by amount of waste, changing a commons into pay-as-you-go
+
+==drift to low performance==
+
+#+begin_quote
+Some systems not only resist policy and stay in a normal bad state, they keep getting worse. One name for this archetype is "drift to low performance".
+#+end_quote
+
+#+begin_quote
+/The actor tends to believe bad news more than good news./
+
+[...]
+
+The actor thinks things are worse than they really are.
+
+[...]
+
+/the desired state of the system is influenced by the perceived state/ Standards aren't absolute. When perceived performance slips, the goal is allowed to slip.
+#+end_quote
+
+I'm a bit lost, but I think this is "if at first you don't succeed, redefine success" that is, accept whatever you achieved as success?
+
+#+begin_quote
+The lower the perceived system state, the lower the desired state.
+The lower the desired state, the less discrepancy, and the less corrective action is taken.
+The less corrective action, the lower the system state.
+#+end_quote
+
+Oh, I see. As Trump does bad things, those things are not challenged and overturned, so they become the new normal?
+
+Or roughly, my standards are what I will tolerate?
+
+Two antidotes:
+- keep standards absolute, regardless of performance
+- make goals sensitive to the /best/ performances of the past, instead of the worst
+
+Oh this is great!

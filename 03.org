@@ -26,6 +26,7 @@ meta-meta is loops that learn, create, design, and evolve more restorative struc
 - self-organization :: capacity of a system to make its own structure
 
 ==hierarchies==
+
 relationships /within/ each subsystem are denser and stronger than relationships /between/ subsystems
 
 #+begin_quote

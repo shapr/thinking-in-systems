@@ -9,7 +9,9 @@ You can't navigate well in an interconnected, feedback-dominated world unless yo
 #+end_quote
 
 events are not structure
+
 ==Linear Minds in a Nonlinear World==
+
 - linear relationship :: can be drawn on a graph with a straight line
 - nonlinear relationship :: cause does not produce a proportional effect, must be drawn with curves or wiggles
 
@@ -17,6 +19,7 @@ nonlinearities /change the relative strengths of feedback loops/ and
 can flip a system from one mode of behavior to another
 
 ==layers of limits==
+
 - law of the minimum :: doesn't matter how much nitogren is available to the grain, if it's short on phosphorus
   so, systems have a limiting factor?
 
@@ -34,6 +37,7 @@ princple component analysis? will that show me dependent cycles?
 oceans take decades to respond to warmer temperatures, we don't know what affect we will have
 
 ==bounded rationality==
+
 Adam Smith's invisible hand quote.
 
 - bounded rationality :: people make reasonable decisions based on the information they have
