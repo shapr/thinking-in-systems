@@ -6,6 +6,7 @@
 Donella Meadows calls these "system traps" because standard responses will not fix these structural problems.
 
 population feedback loops are described, with heavy handed strategies that went badly, or instead incentives to make all children both desired and well supported that went extremely well.
+
 ** tragedy of the commons
 
 cattle grazing on shared land benefits the cattle owner, but the cost is shared by all
@@ -17,7 +18,6 @@ The tragedy of the commons arises from /missing feedback/ or /too long delayed f
 Surely, you'd think, no group of people would be so shortsighted as to destroy their commons.
 #+end_quote
 OH BOY, LET'S TALK ABOUT CORPORATE FUNDING OF OPEN SOURCE!
-
 
 three ways to avoid the tragedy of the commons
 - educate and exhort - help ppl see the consequences of unrestrained use of the commons, appeal to their morality
@@ -75,6 +75,7 @@ Two antidotes:
 - make goals sensitive to the /best/ performances of the past, instead of the worst
 
 Oh this is great!
+
 ** escalation
 two sides fighting, each escalate themselves.
 can be great when researching a cure for AIDS, terrible when two countries are fighting
@@ -82,7 +83,7 @@ examples include political campaigners smearing each other.
 
 escalating even in a good direction can be a problem, hard to stop
 
-two cures are unilateral disarmament, or negotiated disarmament
+two possible cures mentioned are unilateral disarmament, or negotiated disarmament
 ** success to the successful
 competitive exclusion (rich get richer?)
 
@@ -104,9 +105,10 @@ These days the popular road to lifelong success is to create a valuable company 
 I guess that's slightly better than having zero change?
 
 #+begin_quote
-create feedback loops that keep any competitor from taking over entirely.
-That's what antitrust laws do in theory and sometimes in practice.
-(One of resources very big companies can win by winning, however, is the power to weaken the administration of antitrust laws.
+create feedback loops that keep any competitor from taking over
+entirely.  That's what antitrust laws do in theory and sometimes in
+practice.  (One of resources very big companies can win by winning,
+however, is the power to weaken the administration of antitrust laws.
 #+end_quote
 
 🔥 Oh, like, Trump's FCC allowing [[https://www.commondreams.org/news/fcc-approves-paramount-skydance-merger][two companies to merge]] to serve more than 39% of the TV market?
@@ -119,7 +121,7 @@ most obvious way out of success-to-the-successful is by periodically "levelling 
 Native american "potlatch" where those who have the most give away many of their possessions to those who have the least
 #+end_quote
 
-- unbeatably take the rich at higher rates than the poor
+- unbeatably tax the rich at higher rates than the poor
 - charity
 - public welface
 - labor unions
@@ -136,6 +138,7 @@ the playing field.
 
 A short search engine query implies that wealth is only redistributed when the [[https://cepr.org/voxeu/columns/top-wealth-shares-long-run-history-ca-1300-today][playing field is destroyed]].
 I'd be thrilled and surprised to see significant counterexamples.
+
 ** shifting the burd to the intervenor -- addiction
 
 Can this be summarized as "choosing short term improvements that lead to increasing problems in the long term" ?

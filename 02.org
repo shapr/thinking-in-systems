@@ -12,7 +12,7 @@
   there will always be a lag between
 #+begin_quote
 Many economic models make a mistake in this matter by assuming that
-consumption or produc- tion can respond immediately, say, to a change
+consumption or production can respond immediately, say, to a change
 in price.
 #+end_quote
 Oh yeah, like tariffs

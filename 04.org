@@ -32,7 +32,7 @@ can flip a system from one mode of behavior to another
 guess the actual delay and then multiply by three
 
 Can I apply fourier analysis to discover feedback loops?
-princple component analysis? will that show me dependent cycles?
+principal component analysis? will that show me dependent cycles?
 
 oceans take decades to respond to warmer temperatures, we don't know what affect we will have
 

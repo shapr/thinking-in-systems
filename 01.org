@@ -64,6 +64,7 @@ bathtub example
 #+begin_quote
 A stock can be increased by decreasing its outflow rate as well as by increasing its inflow rate
 #+end_quote
+
 like vaccines decrease the outflow of infectious material and thus decrease pandemics!
 and isolation, and masks, and ... I'm beginning to see the many flows here.
 
@@ -79,12 +80,14 @@ back to the bathtub, you can change the flows abruptly, but the
 *stock*, water in the tub, is difficult to change quickly.
 
 feedback loop of desired energy level to consuming caffeine to approach desired energy level
+
 #+begin_quote
 energy drop could reactivate the feedback loop and lead to another
 trip to the coffee pot (see the discussion of *addiction* later in
 this book) Or it could activate some longer-term and healthier
 feedback responses: Eat some food, take a walk, get some sleep
 #+end_quote
+
 ok, good foreshadowing. feedback loops can be good or bad.
 
 #+begin_quote
