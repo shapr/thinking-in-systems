@@ -1,0 +1,60 @@
+* Living in a World of Systems
+dancing with systems
+
+#+begin_quote
+Starting with history discourages the common and distracting tendency
+we all have to define a problem not by the system's actual behavior,
+but by the lack of our favorite solution.
+#+end_quote
+
+** expose your mental models to the light of day
+
+#+begin_quote
+everything you know and everything everyone knows, is only a model
+#+end_quote
+
+(insert Monty Python quote about Camelot)
+
+** honor, respect, and distribute information
+
+/Thou Shalt Not Distort, Delay, or Withhold Information/
+
+#+begin_quote
+Information is power.
+#+end_quote
+
+(Shae says: don't trust a large language model to give you good
+information. More specifically, someone has curated the inputs to the
+large language model you're using. If it wasn't you, be suspicious.)
+
+** use language with care and enrich it with systems concepts
+
+enshittification is a systems concept!
+
+** pay attention to what is important, not just what is quantifiable
+
+** make feedback policies for feedback systems
+
+#+begin_quote
+instead of spending money on border guards, spend money to build the Mexican economy until illegal immigration stops
+#+end_quote
+
+well that's a great idea
+
+
+** go for the good of the whole
+
+** listen to the wisdom of the system
+
+instead of bringing an outside company's factory into a poor country, give loans to the existing businesses so they can expand and thrive
+
+** locate responsibility in the system
+
+- instrinsic responsibility :: system is designed to send feedback directly to the decision makers
+  example given is a pilot is in front of the plane, and immediately sees the feedback of their actions
+
+insurance doesn't pay for the effects of smoking, or not wearing a seat belt or helmet
+
+rulers who lead troops from the front, instead of pushing a button to drop a distant bomb
+
+** stay humble, stay a learner

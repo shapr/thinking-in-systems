@@ -1,4 +1,4 @@
-=System Traps and Opportunities=
+* System Traps and Opportunities
 
 - archetypes :: common patterns of problematic systems
   examples are addiction, drift to low performance, and escalation
@@ -6,8 +6,7 @@
 Donella Meadows calls these "system traps" because standard responses will not fix these structural problems.
 
 population feedback loops are described, with heavy handed strategies that went badly, or instead incentives to make all children both desired and well supported that went extremely well.
-
-==tragedy of the commons==
+** tragedy of the commons
 
 cattle grazing on shared land benefits the cattle owner, but the cost is shared by all
 overgrazing grass means it is less likely to regenerate itself, and perhaps may die off entirely due to erosion
@@ -41,8 +40,7 @@ community at heart. (They cannot be uninformed or weak or corrupt.)
   in return, your own money in the bank is protected
 - the FCC limits radio broadcasting, otherwise there would be a chaos of overlapping signals
 - many city garbage systems charge by amount of waste, changing a commons into pay-as-you-go
-
-==drift to low performance==
+** drift to low performance
 
 #+begin_quote
 Some systems not only resist policy and stay in a normal bad state, they keep getting worse. One name for this archetype is "drift to low performance".
@@ -77,3 +75,74 @@ Two antidotes:
 - make goals sensitive to the /best/ performances of the past, instead of the worst
 
 Oh this is great!
+** escalation
+two sides fighting, each escalate themselves.
+can be great when researching a cure for AIDS, terrible when two countries are fighting
+examples include political campaigners smearing each other.
+
+escalating even in a good direction can be a problem, hard to stop
+
+two cures are unilateral disarmament, or negotiated disarmament
+** success to the successful
+competitive exclusion (rich get richer?)
+
+antitrust laws are the only solution?
+
+/diversifying/
+
+A species can learn or evolve to exploit new resources.
+
+#+begin_quote
+Diversification is not guaranteed, especially if the monopolizing form
+(or species) has the power to crush all offshoots, or buy them up, or
+deprive them of the resources they need to stay alive. Diversification
+doesn't work as a strategy for the poor.
+#+end_quote
+
+🔥 This connects to the last book we read, where Hamming said small companies have the advantage of reduced administration overhead due to easier communication, etc.
+These days the popular road to lifelong success is to create a valuable company and then sell it off to a big company.
+I guess that's slightly better than having zero change?
+
+#+begin_quote
+create feedback loops that keep any competitor from taking over entirely.
+That's what antitrust laws do in theory and sometimes in practice.
+(One of resources very big companies can win by winning, however, is the power to weaken the administration of antitrust laws.
+#+end_quote
+
+🔥 Oh, like, Trump's FCC allowing [[https://www.commondreams.org/news/fcc-approves-paramount-skydance-merger][two companies to merge]] to serve more than 39% of the TV market?
+
+#+begin_quote
+most obvious way out of success-to-the-successful is by periodically "levelling the playing field".
+#+end_quote
+
+#+begin_quote
+Native american "potlatch" where those who have the most give away many of their possessions to those who have the least
+#+end_quote
+
+- unbeatably take the rich at higher rates than the poor
+- charity
+- public welface
+- labor unions
+- universal and equal health care and education
+- taxation on inheritance
+
+#+begin_quote
+These equalizing mechanisms may derive from simple morality, or they
+make come from the practical understanding that losers, if they are
+unable to get out of the game of success to the successful, and if
+they have no hope of winning, could get frustrated enough to destroy
+the playing field.
+#+end_quote
+
+A short search engine query implies that wealth is only redistributed when the [[https://cepr.org/voxeu/columns/top-wealth-shares-long-run-history-ca-1300-today][playing field is destroyed]].
+I'd be thrilled and surprised to see significant counterexamples.
+** shifting the burd to the intervenor -- addiction
+
+Can this be summarized as "choosing short term improvements that lead to increasing problems in the long term" ?
+
+Attempting to prevent an unwanted system rebalancing? Pretending change isn't necessary and trying damaging shortcuts to attempt to continue a broken system?
+
+"burden-shifting systems"
+
+- modern medicine has shifted the responsibility for health away from healthy lifestyle and onto intervening doctors and medicine
+  Huh, hadn't thought much about this. Removing healthcare for US citizens is one way to change that feedback loop?
